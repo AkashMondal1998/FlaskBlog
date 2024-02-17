@@ -1,4 +1,4 @@
-# A simple blogging web app using Flask
+# FlaskBlog
 > [!NOTE]
 > Install dependencies<br />
   ```pip install -r requirements.txt```
